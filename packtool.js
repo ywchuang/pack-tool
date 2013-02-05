@@ -1,5 +1,5 @@
 /**
- * PC2 desktop pack tool
+ * pack tool
  *
  * @author Yuwei
  */
