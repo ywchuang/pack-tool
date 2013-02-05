@@ -1,0 +1,13 @@
+{
+    "name": "pc2-desktop-pack-tool",
+    "version": "0.0.1",
+    "private": true,
+    "preferGlobal": true,
+    "dependencies": {
+        "uglify-js": ">= 1.3.0 <2.0",
+        "csso": ">= 1.3.0",
+		"jake": ">= 0.5.8"
+    },
+    "main" : "./packtool.js",
+	"bin" : { "jake" : "./node_modules/.bin/jake" }
+}
